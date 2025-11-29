@@ -1,8 +1,8 @@
+
+# Implementation of Bayesian Networks
 <H3> Name : Sanjit P</H3>
 <H3>Register No: 212223230190</H3>
 <H3> Experiment 1</H3>
-
-# Implementation of Bayesian Networks
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
